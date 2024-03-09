@@ -8,7 +8,7 @@ programa
 		inteiro numero, opcao
 		inteiro contador = 1
 		
-		const cadeia LINHA = "----------------------------\n"
+		const cadeia LINHA = "-----------------------------\n"
 		const cadeia LINHA_DUPLA = "=========================="
 		cadeia tecla
 
@@ -73,7 +73,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1396; 
+ * @POSICAO-CURSOR = 168; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
